@@ -1,0 +1,21 @@
+{
+  "name": "ow2-play-apimock",
+  "version": "0.0.1",
+  "description": "Node.js API Mock for OW2 Play API",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/ow2-play-apimock",
+  "keywords": [
+    "node", "play"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/ow2-play-apimock.git"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
