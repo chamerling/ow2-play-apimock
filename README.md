@@ -13,7 +13,7 @@ Will start the mock API at http://localhost:3333. Base API is at http://localhos
 
 (The MIT License)
 
-Copyright (c) 2012 Christophe Hamerling &lt;christophe.hamerling@gmail.com&gt;
+Copyright (c) 2013 Christophe Hamerling &lt;christophe.hamerling@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
